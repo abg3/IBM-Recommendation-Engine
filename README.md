@@ -13,12 +13,9 @@ This project analyzes the interactions that users have with articles on the IBM 
 - pickle
 
 # Features
-The tasks involved are Exploratory Data Analysis, Rank Based Recommendations, User-Based Colloborative Filtering and SVD-Matrix Factorization.
-
-# Contents
-The repository contains a Jupyter notebook with the analysis and a copy of it in html format along with test scripts used in the notebook.
+The repository contains a Jupyter notebook with the analysis and a copy of it in html format along with test scripts used in the notebook. The tasks involved are Exploratory Data Analysis, Rank Based Recommendations, User-Based Colloborative Filtering and SVD-Matrix Factorization.
 
 # Acknowledgements
 
-Thank you IBM and Udacity for an opportunity to work on this project! 
+Thank you IBM and Udacity for providing an opportunity to work on this project! 
 
