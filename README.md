@@ -15,5 +15,5 @@ The repository contains a Jupyter notebook with the analysis and a copy of it in
 
 # Acknowledgements
 
-Thank you IBM and Udacity for providing an opportunity to work on this project! 
+Thank you **IBM** and **Udacity** for providing an opportunity to work on this project! 
 
