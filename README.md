@@ -1,6 +1,4 @@
-# IBM-Recommendation-Engine
-
-Build a recommendation system using IBM Watson Studio platform.
+# IBM Recommendation Engine
 
 # Overview
 
